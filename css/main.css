@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   line-height: 1.4;
   color: #364147;
@@ -164,7 +164,7 @@ section {
 }
 
 .hero {
-  background-image: url("../img/hero.jpg");
+  background-image: url('../img/hero.jpg');
   height: 400px;
   background-size: cover;
   background-position: center center;
@@ -177,8 +177,7 @@ section {
 .hero h2 {
   color: #faa541;
 }
-.hero h1,
-.hero h2 {
+.hero h1, .hero h2 {
   font-size: 63px;
   font-weight: 700;
   line-height: 0.9;
